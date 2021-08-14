@@ -1,0 +1,1 @@
+This is an obsidian vault which contains standard Markdown files. If the vault is opened with the [Obsidian client](https://obsidian.md/), the backlinks can be viewed and navigated. Otherwise, these notes are viewable in any standard Markdown renderer.
